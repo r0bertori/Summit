@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "681701276854",
+    "project_id": "summit-d41d8",
+    "storage_bucket": "summit-d41d8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681701276854:android:83a753e9ba0209f695ba17",
+        "android_client_info": {
+          "package_name": "dam.tfc.summit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfLXd41VpULgmt016x0wQ8bkqgDWYJ-JI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
